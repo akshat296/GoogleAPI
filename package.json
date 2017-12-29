@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/akshat296/GoogleAPI#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "prompt": "^1.0.0"
   }
 }
